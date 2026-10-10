@@ -34,24 +34,66 @@ Alongside my professional work, I am the Founder & Software Engineer of **Code C
 
 </div>
 
-**Core areas of work:**
-
-- Business and desktop application development
-- Workflow and process automation
-- Operational reporting and performance management
-- KPI / SLA reporting
-- Data-driven business solutions
-- Business process improvement
-- Project & telecom operations
-- UI/UX for business applications
+**Core areas:** Software Engineering · Business Applications · Automation · Operational Reporting · Performance Management · Business Analysis · Project & Telecom Operations · UI/UX
 
 ---
 
-# 🚀 Selected Engineering Projects
+# 🏢 Flagship Engineering Platform — [Circuit Suite](https://github.com/malekjafar/circuit-suite)
 
-## 📊 [FSM Reporting Center](https://github.com/malekjafar/fsm-reporting-center)
+### Internal Business Operations & Management Platform for Code Circle
 
-**Operational Reporting & Management Solution**
+**Circuit Suite** is the internal platform developed to support the administration and day-to-day operation of **Code Circle** through a family of dedicated internal business systems.
+
+It is **not a commercial product suite offered to clients**. Its public presentation exists to demonstrate the technical depth, product thinking, software-engineering capability, and end-to-end execution behind the platform.
+
+### ⭐ Primary Internal System — Circuit Group
+
+Within Circuit Suite, **Circuit Group** is the primary internal system and the most important component of the platform, focused at a high level on **internal operations and employee management**.
+
+**My role:** Concept · Product Vision · Business & Requirements Analysis · Solution Design · Software Engineering · Hands-on Coding · Application Build · Testing & Validation · Troubleshooting · Maintenance · Continuous Improvement
+
+[View Public Showcase](https://github.com/malekjafar/circuit-suite) · [العربية](https://github.com/malekjafar/circuit-suite/blob/main/README_AR.md)
+
+<details>
+<summary><strong>Other internal systems within Circuit Suite</strong></summary>
+
+| System | Internal Business Role |
+|---|---|
+| **Circuit Care** | Customer service and case management |
+| **Circuit Growth** | Growth, sales, and marketing management |
+| **Circuit Finance** | Financial operations management |
+| **Circuit Shield** | Security and risk management |
+| **Circuit Legal** | Legal operations management |
+| **Strategic Plan** | Strategy and performance management |
+
+</details>
+
+> Public information is intentionally limited. Source code, architecture, database design, internal workflows, detailed business rules, security mechanisms, and implementation details are not published.
+
+---
+
+# 🧩 Founder & Software Engineer — Code Circle
+
+**Code Circle | دائرة برمجية** is a technology and digital-solutions venture focused on delivering practical, customizable, and scalable solutions for real business needs.
+
+Its client-facing portfolio is organized into four primary solution categories:
+
+| Category | Scope | Portfolio |
+|---|---|---|
+| **Software Solutions** | Sector-focused business applications including Farha, Irada, Tazamun, Watad, and Naseej | [View](https://github.com/malekjafar/codecircle-software-solutions) · [العربية](https://github.com/malekjafar/codecircle-software-solutions/blob/main/README_AR.md) |
+| **Websites & Platforms** | Corporate, service, custom and multilingual websites, portals, booking, membership, content and event platforms | [View](https://github.com/malekjafar/codecircle-websites-platforms) · [العربية](https://github.com/malekjafar/codecircle-websites-platforms/blob/main/README_AR.md) |
+| **E-Commerce Solutions** | Custom online stores, commerce delivery, catalog organization, payment and shipping setup, and digital retail experiences | [View](https://github.com/malekjafar/codecircle-ecommerce-solutions) · [العربية](https://github.com/malekjafar/codecircle-ecommerce-solutions/blob/main/README_AR.md) |
+| **Digital Services & Automation** | Analytics, tracking, SEO support, conversion optimization, integrations, customer communication enablement, and process automation | [View](https://github.com/malekjafar/codecircle-digital-services-automation) · [العربية](https://github.com/malekjafar/codecircle-digital-services-automation/blob/main/README_AR.md) |
+
+Across these areas, my work spans **business requirements, solution design, hands-on technical implementation, programming, testing, troubleshooting, optimization, maintenance, and continuous improvement**.
+
+🌐 **Website:** [codecirclehq.com](https://codecirclehq.com)
+
+---
+
+# 📊 Operational Engineering — [FSM Reporting Center](https://github.com/malekjafar/fsm-reporting-center)
+
+### Operational Reporting & Management Solution
 
 A professional business solution developed to support operational reporting, performance visibility, information organization, and day-to-day management needs within a field-operations environment.
 
@@ -65,99 +107,12 @@ A professional business solution developed to support operational reporting, per
 
 ---
 
-## ✅ [FSM Quality Center](https://github.com/malekjafar/fsm-quality-center)
+# 🧪 Additional Engineering Projects
 
-**Operational Quality Assurance, Review & Performance Visibility Solution**
-
-A professional quality-management solution developed to support structured operational review, quality visibility, exception awareness, and clearer follow-up within field-service environments.
-
-**My role:** End-to-end ownership covering concept development, requirements and business analysis, solution design, hands-on programming and code development, application build, testing and validation, operational use, maintenance, troubleshooting, and continuous improvement.
-
-**Focus:** Quality · Operational Review · Performance Visibility · Decision Support
-
-[View Public Showcase](https://github.com/malekjafar/fsm-quality-center) · [العربية](https://github.com/malekjafar/fsm-quality-center/blob/main/README_AR.md)
-
-> Public information about this project is intentionally limited to protect confidential operational data, internal quality methodology, and implementation details.
-
----
-
-## 🔐 [FSM License Center](https://github.com/malekjafar/FSM-License-Center)
-
-**Software Licensing Administration, Product Governance & Access Management Solution**
-
-A professional software-product management solution developed to support structured licensing administration, product governance, authorized usage oversight, and operational control within a private software environment.
-
-**My role:** End-to-end ownership covering concept development, requirements analysis, solution design, hands-on programming and code development, application build, testing and validation, operational use, maintenance, troubleshooting, product administration, and continuous improvement.
-
-**Focus:** Software Engineering · Licensing Administration · Product Governance · Operational Control
-
-[View Public Showcase](https://github.com/malekjafar/FSM-License-Center) · [العربية](https://github.com/malekjafar/FSM-License-Center/blob/main/README_AR.md)
-
-> Public information about this project is intentionally limited to protect security-sensitive implementation details, internal licensing logic, proprietary controls, and product-protection mechanisms.
-
----
-
-# 🧩 Founder & Software Engineer — Code Circle
-
-**Code Circle | دائرة برمجية** is a technology and digital-solutions venture focused on delivering practical, customizable, and scalable solutions for real business needs.
-
-Its client-facing work is organized into four primary solution categories:
-
-1. **Software Solutions**
-2. **Websites & Platforms**
-3. **E-Commerce Solutions**
-4. **Digital Services & Automation**
-
-The venture combines software engineering, product thinking, business analysis, digital delivery, automation, and operational understanding to create solutions around actual business requirements.
-
-🌐 **Website:** [codecirclehq.com](https://codecirclehq.com)
-
----
-
-# 🌐 Code Circle Client-Facing Solutions Portfolio
-
-The public Code Circle portfolio is structured around four clear solution categories. Each repository presents the business scope, professional value, and delivery capability of that category without publishing proprietary implementation details.
-
-| Category | Public Scope | Showcase |
+| Project | Professional Focus | Showcase |
 |---|---|---|
-| **Software Solutions** | Sector-focused business applications including Farha, Irada, Tazamun, Watad, and Naseej | [View](https://github.com/malekjafar/codecircle-software-solutions) · [العربية](https://github.com/malekjafar/codecircle-software-solutions/blob/main/README_AR.md) |
-| **Websites & Platforms** | Corporate, service, custom and multilingual websites, landing pages, portals, booking, membership, content and event platforms | [View](https://github.com/malekjafar/codecircle-websites-platforms) · [العربية](https://github.com/malekjafar/codecircle-websites-platforms/blob/main/README_AR.md) |
-| **E-Commerce Solutions** | Custom online stores, Salla-based commerce delivery, catalog organization, payment and shipping setup, and digital retail experiences | [View](https://github.com/malekjafar/codecircle-ecommerce-solutions) · [العربية](https://github.com/malekjafar/codecircle-ecommerce-solutions/blob/main/README_AR.md) |
-| **Digital Services & Automation** | Analytics, tracking, SEO support, conversion optimization, customer communication enablement, integrations, and process automation | [View](https://github.com/malekjafar/codecircle-digital-services-automation) · [العربية](https://github.com/malekjafar/codecircle-digital-services-automation/blob/main/README_AR.md) |
-
-Across these categories, my role spans **business requirements, solution design, hands-on technical implementation, programming where required, testing, troubleshooting, optimization, maintenance, and continuous improvement**.
-
-> Code Circle's client-facing repositories present what the solutions achieve and the professional capability behind them — not private source code, architecture, customer data, proprietary workflows, or implementation secrets.
-
----
-
-# 🏢 [Circuit Suite](https://github.com/malekjafar/circuit-suite)
-
-**Internal Business Operations & Management Platform for Code Circle**
-
-Circuit Suite is the internal platform developed to manage and support the day-to-day business operations of Code Circle itself.
-
-The systems within Circuit Suite are **not commercial products marketed or sold to clients**. They are internal management and work systems created specifically for Code Circle and accessed through its administrative environment.
-
-Their public presentation here serves a different purpose: to demonstrate the **technical depth, software-engineering capability, product vision, hands-on programming, and end-to-end execution** represented by the project.
-
-**My role:** End-to-end ownership covering concept and product vision, business and requirements analysis, solution design, hands-on programming and code development, application build, testing and validation, troubleshooting, maintenance, and continuous improvement.
-
-**Focus:** Internal Business Systems · Software Engineering · Automation · Management Platforms · Product Development
-
-[View Public Showcase](https://github.com/malekjafar/circuit-suite) · [العربية](https://github.com/malekjafar/circuit-suite/blob/main/README_AR.md)
-
-| System | Internal Business Role |
-|---|---|
-| **Circuit Group** | Internal operations and employee management |
-| **Circuit Care** | Customer service and case management |
-| **Circuit Growth** | Growth, sales, and marketing management |
-| **Circuit Finance** | Financial operations management |
-| **Circuit Shield** | Security and risk management |
-| **Circuit Legal** | Legal operations management |
-| **Strategic Plan** | Strategy and performance management |
-
-> These systems are presented publicly only as a professional showcase of the engineering and implementation level behind Code Circle's internal platform. Internal workflows, architecture, data models, business rules, security mechanisms, and implementation details are not published.
+| **FSM Quality Center** | Operational quality assurance, structured review, performance visibility, and decision support | [View](https://github.com/malekjafar/fsm-quality-center) · [العربية](https://github.com/malekjafar/fsm-quality-center/blob/main/README_AR.md) |
+| **FSM License Center** | Software licensing administration, product governance, authorized usage oversight, and operational control | [View](https://github.com/malekjafar/FSM-License-Center) · [العربية](https://github.com/malekjafar/FSM-License-Center/blob/main/README_AR.md) |
 
 ---
 
@@ -203,29 +158,7 @@ Their public presentation here serves a different purpose: to demonstrate the **
 
 # 💼 Professional Expertise
 
-- Project & Telecom Operations
-- Operational Performance Management
-- KPI & SLA Reporting
-- Workflow Automation
-- Business Process Improvement
-- Operational Data Analysis
-- Project Management
-- PMBOK & Agile Principles
-- Business Analysis
-- Team Coordination
-- Executive Reporting
-- Customer Experience & Service Quality
-
----
-
-# 🎯 Current Focus
-
-- Building maintainable business applications and digital products
-- Developing automation and reporting solutions
-- Improving application quality and user experience
-- Designing data-driven operational solutions
-- Strengthening professional Git and GitHub workflows
-- Building a public portfolio that demonstrates outcomes without exposing proprietary implementation details
+`Software Engineering` · `Business Applications` · `Workflow Automation` · `Operational Performance` · `KPI & SLA Reporting` · `Business Analysis` · `Business Process Improvement` · `Project Management` · `Telecom Operations` · `Executive Reporting` · `Customer Experience`
 
 ---
 
@@ -246,11 +179,11 @@ Their public presentation here serves a different purpose: to demonstrate the **
 
 ## 🔒 Public Portfolio Policy
 
-This profile is designed as a professional showcase.
+This GitHub profile is a **professional showcase**, not technical documentation.
 
-Public repositories and project descriptions intentionally **do not disclose** proprietary source code, software architecture, database design, internal workflows, business rules, security implementations, confidential operational data, or other details that could reveal how private systems are engineered.
+Public repositories intentionally do **not disclose** proprietary source code, software architecture, database design, internal workflows, detailed business rules, security implementations, confidential operational data, or other information that could reveal how private systems are engineered.
 
-**The portfolio presents outcomes and professional capability — not proprietary implementation.**
+**The portfolio presents outcomes, ownership, and professional capability — not proprietary implementation.**
 
 ---
 
