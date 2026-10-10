@@ -66,17 +66,19 @@ A professional quality-management solution developed to support structured opera
 
 ---
 
-## 🔐 FSM License Center
+## 🔐 [FSM License Center](https://github.com/malekjafar/FSM-License-Center)
 
-**Software Licensing Administration Solution**
+**Software Licensing Administration, Product Governance & Access Management Solution**
 
-A dedicated administration solution supporting the controlled management of software licensing within a broader software-product environment.
+A professional software-product management solution developed to support structured licensing administration, product governance, authorized usage oversight, and operational control within a private software environment.
 
-**My role:** End-to-end ownership covering concept development, solution design, hands-on programming and code development, application build, testing, operational use, maintenance, troubleshooting, product administration, and continuous improvement.
+**My role:** End-to-end ownership covering concept development, requirements analysis, solution design, hands-on programming and code development, application build, testing and validation, operational use, maintenance, troubleshooting, product administration, and continuous improvement.
 
-**Focus:** Software Administration · Licensing · Product Control · Operational Management
+**Focus:** Software Engineering · Licensing Administration · Product Governance · Operational Control
 
-> Public information about this project is intentionally limited to protect implementation details and internal security design.
+[View Public Showcase](https://github.com/malekjafar/FSM-License-Center) · [العربية](https://github.com/malekjafar/FSM-License-Center/blob/main/README_AR.md)
+
+> Public information about this project is intentionally limited to protect security-sensitive implementation details, internal licensing logic, proprietary controls, and product-protection mechanisms.
 
 ---
 
