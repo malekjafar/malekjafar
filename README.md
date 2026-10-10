@@ -34,15 +34,17 @@ My work focuses on turning real business needs into practical digital solutions 
 
 # 🚀 Selected Engineering Projects
 
-## 📊 FSM Reporting Center
+## 📊 [FSM Reporting Center](https://github.com/malekjafar/fsm-reporting-center)
 
 **Operational Reporting & Management Solution**
 
 A professional business solution developed to support operational reporting, performance visibility, information organization, and day-to-day management needs within a field-operations environment.
 
-**My role:** Concept, design, development, continuous improvement, and operational alignment.
+**My role:** End-to-end ownership covering concept development, business analysis, solution design, hands-on programming and code development, application build, testing, operational deployment and use, maintenance, troubleshooting, and continuous improvement.
 
 **Focus:** Reporting · Automation · Performance Visibility · Operational Efficiency
+
+[View Public Showcase](https://github.com/malekjafar/fsm-reporting-center) · [العربية](https://github.com/malekjafar/fsm-reporting-center/blob/main/README_AR.md)
 
 > Public information about this project is intentionally limited to protect confidential operational data, internal processes, and implementation details.
 
@@ -54,7 +56,7 @@ A professional business solution developed to support operational reporting, per
 
 A dedicated quality-focused solution designed to support structured review, operational quality monitoring, and clearer visibility of cases requiring attention.
 
-**My role:** Concept, design, development, and continuous improvement.
+**My role:** End-to-end ownership covering concept development, requirements analysis, solution design, hands-on programming and code development, application build, testing, operational use, maintenance, troubleshooting, and continuous improvement.
 
 **Focus:** Quality · Monitoring · Operational Review · Decision Support
 
@@ -68,7 +70,7 @@ A dedicated quality-focused solution designed to support structured review, oper
 
 A dedicated administration solution supporting the controlled management of software licensing within a broader software-product environment.
 
-**My role:** Concept, design, development, and product administration.
+**My role:** End-to-end ownership covering concept development, solution design, hands-on programming and code development, application build, testing, operational use, maintenance, troubleshooting, product administration, and continuous improvement.
 
 **Focus:** Software Administration · Licensing · Product Control · Operational Management
 
