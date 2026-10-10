@@ -84,9 +84,18 @@ A professional software-product management solution developed to support structu
 
 # 🧩 Founder & Software Engineer — Code Circle
 
-**Code Circle | دائرة برمجية** is a software and digital-solutions initiative focused on building practical, customizable, and scalable solutions for real business needs.
+**Code Circle | دائرة برمجية** is a technology and digital-solutions venture focused on delivering practical, customizable, and scalable solutions for real business needs.
 
-Its scope includes business software, websites, digital platforms, e-commerce, automation, analytics, and supporting digital services.
+Its client-facing scope includes:
+
+- Business software and sector-specific applications
+- Custom websites and digital platforms
+- E-commerce solutions
+- Automation and process improvement
+- Analytics and performance measurement
+- Digital identity and supporting digital services
+
+The venture combines software engineering, product thinking, business analysis, digital delivery, and operational understanding to create solutions around actual business requirements.
 
 🌐 **Website:** [codecirclehq.com](https://codecirclehq.com)
 
@@ -94,29 +103,31 @@ Its scope includes business software, websites, digital platforms, e-commerce, a
 
 # 🏢 [Circuit Suite](https://github.com/malekjafar/circuit-suite)
 
-**Integrated Business Operations, Management & Digital Transformation Ecosystem**
+**Internal Business Operations & Management Platform for Code Circle**
 
-Circuit Suite is an integrated family of business systems developed under the Code Circle ecosystem to support multiple organizational domains through focused digital solutions.
+Circuit Suite is the internal platform developed to manage and support the day-to-day business operations of Code Circle itself.
 
-The suite represents a broader product vision covering internal operations, customer service, commercial growth, financial management, strategic performance, legal operations, and security-oriented management — while keeping each system focused on its own business purpose.
+The systems within Circuit Suite are **not commercial products marketed or sold to clients**. They are internal management and work systems created specifically for Code Circle and accessed through its administrative environment.
 
-**My role:** End-to-end ownership covering product vision, business and requirements analysis, solution design, hands-on programming and code development, application build, testing and validation, troubleshooting, maintenance, and continuous product improvement across the ecosystem.
+Their public presentation here serves a different purpose: to demonstrate the **technical depth, software-engineering capability, product vision, hands-on programming, and end-to-end execution** represented by the project.
 
-**Focus:** Business Software · Digital Transformation · Automation · Management Systems · Product Development
+**My role:** End-to-end ownership covering concept and product vision, business and requirements analysis, solution design, hands-on programming and code development, application build, testing and validation, troubleshooting, maintenance, and continuous improvement.
+
+**Focus:** Internal Business Systems · Software Engineering · Automation · Management Platforms · Product Development
 
 [View Public Showcase](https://github.com/malekjafar/circuit-suite) · [العربية](https://github.com/malekjafar/circuit-suite/blob/main/README_AR.md)
 
-| System | Business Domain |
+| System | Internal Business Role |
 |---|---|
-| **Circuit Group** | Business & Employee Operations |
-| **Circuit Care** | Customer Service Management |
-| **Circuit Growth** | Sales, Marketing & Business Growth |
-| **Circuit Finance** | Financial Operations |
-| **Circuit Shield** | Security & Risk Management |
-| **Circuit Legal** | Legal Operations |
-| **Strategic Plan** | Strategy & Performance Management |
+| **Circuit Group** | Internal operations and employee management |
+| **Circuit Care** | Customer service and case management |
+| **Circuit Growth** | Growth, sales, and marketing management |
+| **Circuit Finance** | Financial operations management |
+| **Circuit Shield** | Security and risk management |
+| **Circuit Legal** | Legal operations management |
+| **Strategic Plan** | Strategy and performance management |
 
-> Public information intentionally presents only the business scope and professional value of the ecosystem. Internal workflows, architecture, data models, business rules, security mechanisms, and implementation details are not published.
+> These systems are presented publicly only as a professional showcase of the engineering and implementation level behind Code Circle's internal platform. Internal workflows, architecture, data models, business rules, security mechanisms, and implementation details are not published.
 
 ---
 
