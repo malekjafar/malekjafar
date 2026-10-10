@@ -3,6 +3,7 @@
 # Hi, I'm Malek Jafar 👋
 
 ### Computer Engineer | Digital Solutions Developer | Automation & Telecom Operations
+### مهندس حاسب | مطور حلول رقمية | الأتمتة وعمليات الاتصالات
 
 I build practical digital solutions that connect **software development, automation, data, and real-world business operations**.
 
@@ -15,9 +16,23 @@ I build practical digital solutions that connect **software development, automat
 
 ## 👨‍💻 Professional Profile
 
-I'm a Computer Engineer and Digital Solutions Developer with hands-on experience in software development, operational reporting, workflow automation, performance management, project operations, and business process improvement.
+I'm a Computer Engineer and Digital Solutions Developer with hands-on experience in software development, business applications, workflow automation, operational reporting, performance management, and telecom operations.
 
-My work focuses on turning real business needs into practical digital solutions that improve efficiency, strengthen visibility, support better decision-making, and reduce unnecessary manual effort.
+I focus on transforming real business and operational requirements into practical digital solutions — from concept and requirements analysis to solution design, hands-on programming, application development, testing, deployment, troubleshooting, maintenance, and continuous improvement.
+
+Alongside my professional work, I am the Founder & Software Engineer of **Code Circle | دائرة برمجية**, a technology venture focused on software solutions, websites and digital platforms, e-commerce, automation, analytics, and supporting digital services.
+
+### الملف المهني
+
+<div dir="rtl" align="right">
+
+مهندس حاسب ومطور حلول رقمية، أمتلك خبرة عملية في تطوير البرمجيات وتطبيقات الأعمال، وأتمتة الإجراءات، والتقارير التشغيلية، وإدارة الأداء، وعمليات الاتصالات.
+
+يتركز عملي على تحويل احتياجات الأعمال والعمليات الفعلية إلى حلول رقمية عملية ومتكاملة، بدءًا من الفكرة وتحليل المتطلبات، مرورًا بتصميم الحلول والبرمجة المباشرة وكتابة الأكواد وبناء التطبيقات واختبارها وتشغيلها، وصولًا إلى معالجة المشكلات والصيانة والتطوير والتحسين المستمر.
+
+وإلى جانب عملي المهني، أنا مؤسس ومهندس البرمجيات في **Code Circle | دائرة برمجية**، وهو مشروع تقني متخصص في تقديم الحلول والبرامج، والمواقع والمنصات الرقمية، والتجارة الإلكترونية، والأتمتة والتحليلات، والخدمات الرقمية المساندة.
+
+</div>
 
 **Core areas of work:**
 
