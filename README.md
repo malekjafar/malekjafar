@@ -38,21 +38,23 @@ Alongside my professional work, I am the Founder & Software Engineer of **Code C
 
 ---
 
-# 🏢 Flagship Engineering Platform — [Circuit Suite](https://github.com/malekjafar/circuit-suite)
+# ⭐ Flagship Engineering Project — [Circuit Group](https://github.com/malekjafar/circuit-group)
 
-### Internal Business Operations & Management Platform for Code Circle
+### Primary Internal Operations & Employee Management System within Circuit Suite
 
-**Circuit Suite** is the internal platform developed to support the administration and day-to-day operation of **Code Circle** through a family of dedicated internal business systems.
+**Circuit Group** is the primary internal system and the most important operational component within **Circuit Suite**, developed around real internal administration and employee-management needs for **Code Circle**.
 
-It is **not a commercial product suite offered to clients**. Its public presentation exists to demonstrate the technical depth, product thinking, software-engineering capability, and end-to-end execution behind the platform.
+Its public presentation is intentionally high level and exists to demonstrate the **technical depth, product thinking, software-engineering capability, hands-on programming, and end-to-end execution** represented by the project.
 
-### ⭐ Primary Internal System — Circuit Group
+**My role:** Concept · Product Vision · Business & Requirements Analysis · Solution Design · Software Engineering · Hands-on Coding · Application Build · Testing & Validation · Operational Use · Troubleshooting · Maintenance · Continuous Improvement
 
-Within Circuit Suite, **Circuit Group** is the primary internal system and the most important component of the platform, focused at a high level on **internal operations and employee management**.
+[View Circuit Group Showcase](https://github.com/malekjafar/circuit-group) · [العربية](https://github.com/malekjafar/circuit-group/blob/main/README_AR.md)
 
-**My role:** Concept · Product Vision · Business & Requirements Analysis · Solution Design · Software Engineering · Hands-on Coding · Application Build · Testing & Validation · Troubleshooting · Maintenance · Continuous Improvement
+### 🏢 Parent Platform — [Circuit Suite](https://github.com/malekjafar/circuit-suite)
 
-[View Public Showcase](https://github.com/malekjafar/circuit-suite) · [العربية](https://github.com/malekjafar/circuit-suite/blob/main/README_AR.md)
+**Circuit Suite** is the broader internal business operations and management platform developed to support Code Circle through a family of dedicated internal systems. These systems are **not commercial products offered to clients**; they are internal management systems built specifically for Code Circle.
+
+[View Circuit Suite](https://github.com/malekjafar/circuit-suite) · [العربية](https://github.com/malekjafar/circuit-suite/blob/main/README_AR.md)
 
 <details>
 <summary><strong>Other internal systems within Circuit Suite</strong></summary>
