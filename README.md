@@ -86,18 +86,33 @@ A professional software-product management solution developed to support structu
 
 **Code Circle | دائرة برمجية** is a technology and digital-solutions venture focused on delivering practical, customizable, and scalable solutions for real business needs.
 
-Its client-facing scope includes:
+Its client-facing work is organized into four primary solution categories:
 
-- Business software and sector-specific applications
-- Custom websites and digital platforms
-- E-commerce solutions
-- Automation and process improvement
-- Analytics and performance measurement
-- Digital identity and supporting digital services
+1. **Software Solutions**
+2. **Websites & Platforms**
+3. **E-Commerce Solutions**
+4. **Digital Services & Automation**
 
-The venture combines software engineering, product thinking, business analysis, digital delivery, and operational understanding to create solutions around actual business requirements.
+The venture combines software engineering, product thinking, business analysis, digital delivery, automation, and operational understanding to create solutions around actual business requirements.
 
 🌐 **Website:** [codecirclehq.com](https://codecirclehq.com)
+
+---
+
+# 🌐 Code Circle Client-Facing Solutions Portfolio
+
+The public Code Circle portfolio is structured around four clear solution categories. Each repository presents the business scope, professional value, and delivery capability of that category without publishing proprietary implementation details.
+
+| Category | Public Scope | Showcase |
+|---|---|---|
+| **Software Solutions** | Sector-focused business applications including Farha, Irada, Tazamun, Watad, and Naseej | [View](https://github.com/malekjafar/codecircle-software-solutions) · [العربية](https://github.com/malekjafar/codecircle-software-solutions/blob/main/README_AR.md) |
+| **Websites & Platforms** | Corporate, service, custom and multilingual websites, landing pages, portals, booking, membership, content and event platforms | [View](https://github.com/malekjafar/codecircle-websites-platforms) · [العربية](https://github.com/malekjafar/codecircle-websites-platforms/blob/main/README_AR.md) |
+| **E-Commerce Solutions** | Custom online stores, Salla-based commerce delivery, catalog organization, payment and shipping setup, and digital retail experiences | [View](https://github.com/malekjafar/codecircle-ecommerce-solutions) · [العربية](https://github.com/malekjafar/codecircle-ecommerce-solutions/blob/main/README_AR.md) |
+| **Digital Services & Automation** | Analytics, tracking, SEO support, conversion optimization, customer communication enablement, integrations, and process automation | [View](https://github.com/malekjafar/codecircle-digital-services-automation) · [العربية](https://github.com/malekjafar/codecircle-digital-services-automation/blob/main/README_AR.md) |
+
+Across these categories, my role spans **business requirements, solution design, hands-on technical implementation, programming where required, testing, troubleshooting, optimization, maintenance, and continuous improvement**.
+
+> Code Circle's client-facing repositories present what the solutions achieve and the professional capability behind them — not private source code, architecture, customer data, proprietary workflows, or implementation secrets.
 
 ---
 
@@ -128,38 +143,6 @@ Their public presentation here serves a different purpose: to demonstrate the **
 | **Strategic Plan** | Strategy and performance management |
 
 > These systems are presented publicly only as a professional showcase of the engineering and implementation level behind Code Circle's internal platform. Internal workflows, architecture, data models, business rules, security mechanisms, and implementation details are not published.
-
----
-
-# 💼 Code Circle Business Products
-
-| Product | Purpose |
-|---|---|
-| **Farha | فرحة** | Event & Venue Management |
-| **Irad | إيراد** | Financial Operations |
-| **Tazamun | تزامن** | Installment & Collection Management |
-| **Watad | وتد** | Property & Unit Management |
-| **Naseej | نسيج** | Human Resources Management |
-
-These products are designed as configurable business solutions for specific operational needs, with public information intentionally limited to product purpose and business value.
-
----
-
-# 🌐 Web, Platforms & Digital Solutions
-
-Code Circle also provides digital solutions across areas such as:
-
-- Corporate and professional websites
-- Custom web platforms
-- Business dashboards
-- E-commerce solutions
-- Booking and service platforms
-- Customer and membership portals
-- Digital experience improvement
-- Analytics and performance measurement
-- SEO and digital visibility
-- Business-process automation
-- Platform integration
 
 ---
 
