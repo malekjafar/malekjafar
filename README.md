@@ -92,21 +92,31 @@ Its scope includes business software, websites, digital platforms, e-commerce, a
 
 ---
 
-# 🏢 Circuit Suite
+# 🏢 [Circuit Suite](https://github.com/malekjafar/circuit-suite)
 
-An integrated family of business systems developed under the Code Circle ecosystem.
+**Integrated Business Operations, Management & Digital Transformation Ecosystem**
 
-| System | Status | Business Domain |
-|---|---|---|
-| **Circuit Group** | ✅ Complete | Business & Employee Operations |
-| **Circuit Care** | ✅ Development Complete | Customer Service & Case Management |
-| **Circuit Growth** | ✅ Complete | Sales, Marketing & Business Growth |
-| **Circuit Finance** | ✅ Development Complete | Financial Operations |
-| **Circuit Shield** | ⏳ Planned | Security & Risk Management |
-| **Circuit Legal** | ⏳ Planned | Legal Operations |
-| **Strategic Plan** | 🟦 Existing Module | Strategy & Performance Management |
+Circuit Suite is an integrated family of business systems developed under the Code Circle ecosystem to support multiple organizational domains through focused digital solutions.
 
-> Public descriptions intentionally present only the business domain and development status. Internal workflows, architecture, business rules, and implementation details are not published.
+The suite represents a broader product vision covering internal operations, customer service, commercial growth, financial management, strategic performance, legal operations, and security-oriented management — while keeping each system focused on its own business purpose.
+
+**My role:** End-to-end ownership covering product vision, business and requirements analysis, solution design, hands-on programming and code development, application build, testing and validation, troubleshooting, maintenance, and continuous product improvement across the ecosystem.
+
+**Focus:** Business Software · Digital Transformation · Automation · Management Systems · Product Development
+
+[View Public Showcase](https://github.com/malekjafar/circuit-suite) · [العربية](https://github.com/malekjafar/circuit-suite/blob/main/README_AR.md)
+
+| System | Business Domain |
+|---|---|
+| **Circuit Group** | Business & Employee Operations |
+| **Circuit Care** | Customer Service Management |
+| **Circuit Growth** | Sales, Marketing & Business Growth |
+| **Circuit Finance** | Financial Operations |
+| **Circuit Shield** | Security & Risk Management |
+| **Circuit Legal** | Legal Operations |
+| **Strategic Plan** | Strategy & Performance Management |
+
+> Public information intentionally presents only the business scope and professional value of the ecosystem. Internal workflows, architecture, data models, business rules, security mechanisms, and implementation details are not published.
 
 ---
 
