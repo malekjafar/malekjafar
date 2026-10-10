@@ -50,17 +50,19 @@ A professional business solution developed to support operational reporting, per
 
 ---
 
-## ✅ FSM Quality Center
+## ✅ [FSM Quality Center](https://github.com/malekjafar/fsm-quality-center)
 
-**Operational Quality Management Solution**
+**Operational Quality Assurance, Review & Performance Visibility Solution**
 
-A dedicated quality-focused solution designed to support structured review, operational quality monitoring, and clearer visibility of cases requiring attention.
+A professional quality-management solution developed to support structured operational review, quality visibility, exception awareness, and clearer follow-up within field-service environments.
 
-**My role:** End-to-end ownership covering concept development, requirements analysis, solution design, hands-on programming and code development, application build, testing, operational use, maintenance, troubleshooting, and continuous improvement.
+**My role:** End-to-end ownership covering concept development, requirements and business analysis, solution design, hands-on programming and code development, application build, testing and validation, operational use, maintenance, troubleshooting, and continuous improvement.
 
-**Focus:** Quality · Monitoring · Operational Review · Decision Support
+**Focus:** Quality · Operational Review · Performance Visibility · Decision Support
 
-> Public information about this project is intentionally limited to protect confidential operational data, internal processes, and implementation details.
+[View Public Showcase](https://github.com/malekjafar/fsm-quality-center) · [العربية](https://github.com/malekjafar/fsm-quality-center/blob/main/README_AR.md)
+
+> Public information about this project is intentionally limited to protect confidential operational data, internal quality methodology, and implementation details.
 
 ---
 
